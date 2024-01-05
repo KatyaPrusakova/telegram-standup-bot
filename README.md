@@ -3,7 +3,7 @@
 A Telegram bot that helps you stay on track with daily updates! All members of a chat can participate and stay in the loop.
 
 ## 💡 How to use
-1. Add [@stood_bot](https://t.me/stood_bot) to the chats you want to receive updates in.
+1. Add [@todaystandup_bot](https://t.me/todaystandup_bot) to the chats you want to receive updates in.
 2. Type `/subscribe` in each of those chats to start receiving updates.
 
 ## 🗓️ Schedule

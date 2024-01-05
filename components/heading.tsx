@@ -28,7 +28,7 @@ const Heading: React.FC<HeadingProps> = ({ user }) => {
               <Tag className="headding__user-role">{user.role}</Tag>
 
               <div className="heading__actions">
-                <Link href="https://t.me/stood_bot">
+                <Link href="https://t.me/todaystandup_bot">
                   <Button type="secondary" auto>
                     Create Update
                   </Button>
